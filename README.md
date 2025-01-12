@@ -12,8 +12,11 @@ Answers from various Models (OpenAI, Claude, Cohere, Gemini)
 #### [brochure.ipynb](https://github.com/RanjitSolomon/llm/blob/main/brochure.ipynb) 
 Creates a brochure from the content of a website
 
-
 ## 4. Conversation between two chatbots 
 #### [Conversation_between_two_Chatbots.ipynb](https://github.com/RanjitSolomon/llm/blob/main/Conversation_between_two_Chatbots.ipynb)
 Conversation between OpenAI and Claude 
+
+## 5. Brochure on Gradio
+#### [Gradio.ipynb](https://github.com/RanjitSolomon/llm/blob/main/Gradio.ipynb) 
+Gradio and hosting the the brochure created with a content of a website.
 
