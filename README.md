@@ -20,3 +20,8 @@ Conversation between OpenAI and Claude
 #### [Gradio.ipynb](https://github.com/RanjitSolomon/llm/blob/main/Gradio.ipynb) 
 Gradio and hosting the the brochure created with a content of a website.
 
+## 6. Airline_AI_Assistant 
+#### [Airline_AI_Assistant.ipynb](https://github.com/RanjitSolomon/llm/blob/main/Airline_AI_Assistant.ipynb)
+A Chatbot for clients to get airline ticket prices
+
+
