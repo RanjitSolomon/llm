@@ -24,4 +24,8 @@ Gradio and hosting the the brochure created with a content of a website.
 #### [Airline_AI_Assistant.ipynb](https://github.com/RanjitSolomon/llm/blob/main/Airline_AI_Assistant.ipynb)
 A Chatbot for clients to get airline ticket prices
 
+## 7. Airline_assistant_with_voice_image
+#### [](https://github.com/RanjitSolomon/llm/blob/main/Airline_assistant_with_voice_image.ipynb)
+Generate Image and Audio, OpenAI 
+
 
