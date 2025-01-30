@@ -25,7 +25,13 @@ Gradio and hosting the the brochure created with a content of a website.
 A Chatbot for clients to get airline ticket prices
 
 ## 7. Airline_assistant_with_voice_image
-#### [](https://github.com/RanjitSolomon/llm/blob/main/Airline_assistant_with_voice_image.ipynb)
+#### [Airline_assistant_with_voice_image](https://github.com/RanjitSolomon/llm/blob/main/Airline_assistant_with_voice_image.ipynb)
 Generate Image and Audio, OpenAI 
+
+## 8. HuggingFace_Pipeline
+#### [huggingface_pipeline](https://github.com/RanjitSolomon/llm/blob/main/huggingface_pipeline.ipynb)
+HuggingFace - Pipeline :  Generate: Audio/Image/Text   
+Sentiment Analysis, Classifier, Named Entity Recognition, Question Answering, Summarizing, Translation
+
 
 
