@@ -34,4 +34,8 @@ HuggingFace - Pipeline :  Generate: Audio/Image/Text
 Sentiment Analysis, Classifier, Named Entity Recognition, Question Answering, Summarizing, Translation
 
 
+## 9. Tokenizer
+#### [tokenizer](https://github.com/RanjitSolomon/llm/blob/main/tokenizers.ipynb)
+Tokenizer, Multiple murders
+
 
