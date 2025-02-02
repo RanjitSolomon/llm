@@ -36,6 +36,10 @@ Sentiment Analysis, Classifier, Named Entity Recognition, Question Answering, Su
 
 ## 9. Tokenizer
 #### [tokenizer](https://github.com/RanjitSolomon/llm/blob/main/tokenizers.ipynb)
-Tokenizer, Multiple murders
+Tokenizer, Multiple models 
+
+## 10. Inference
+#### [Inference](https://github.com/RanjitSolomon/llm/blob/main/Inference.ipynb)
+Inference, Quantization, Multiple Models
 
 
