@@ -42,4 +42,7 @@ Tokenizer, Multiple models
 #### [Inference](https://github.com/RanjitSolomon/llm/blob/main/Inference.ipynb)
 Inference, Quantization, Multiple Models
 
+## 11. Audio to Text and Summarize 
+#### [](https://github.com/RanjitSolomon/llm/blob/main/Audio_To_Text_Summarization.ipynb) 
+Convert Audio to Text and summarize
 
