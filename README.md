@@ -33,7 +33,6 @@ Generate Image and Audio, OpenAI
 HuggingFace - Pipeline :  Generate: Audio/Image/Text   
 Sentiment Analysis, Classifier, Named Entity Recognition, Question Answering, Summarizing, Translation
 
-
 ## 9. Tokenizer
 #### [tokenizer](https://github.com/RanjitSolomon/llm/blob/main/tokenizers.ipynb)
 Tokenizer, Multiple models 
@@ -43,6 +42,10 @@ Tokenizer, Multiple models
 Inference, Quantization, Multiple Models
 
 ## 11. Audio to Text and Summarize 
-#### [](https://github.com/RanjitSolomon/llm/blob/main/Audio_To_Text_Summarization.ipynb) 
+#### [Audio_To_Text_Summarization](https://github.com/RanjitSolomon/llm/blob/main/Audio_To_Text_Summarization.ipynb) 
 Convert Audio to Text and summarize
+
+## 12. Choose Models Benchmarks 
+#### [Choose Models ](https://github.com/RanjitSolomon/llm/blob/main/Choose_Models_Benchmark.ipynb)
+Choosing models, open or closed, HuggingFace Leaderboard, Type of benchmarks
 
