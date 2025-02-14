@@ -49,3 +49,7 @@ Convert Audio to Text and summarize
 #### [Choose Models ](https://github.com/RanjitSolomon/llm/blob/main/Choose_Models_Benchmark.ipynb)
 Choosing models, open or closed, HuggingFace Leaderboard, Type of benchmarks
 
+## 13. Convert Code 
+#### [Convert_Code](https://github.com/RanjitSolomon/llm/blob/main/convert_code.ipynb) 
+Convert Python to C++ code. Models: GPT, Claude, Gemini, Ollama Save File, Compile(g++, Visual Studio-cl), Execute, Gradio   
+
