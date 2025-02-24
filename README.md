@@ -51,5 +51,9 @@ Choosing models, open or closed, HuggingFace Leaderboard, Type of benchmarks
 
 ## 13. Convert Code 
 #### [Convert_Code](https://github.com/RanjitSolomon/llm/blob/main/convert_code.ipynb) 
-Convert Python to C++ code. Models: GPT, Claude, Gemini, Ollama Save File, Compile(g++, Visual Studio-cl), Execute, Gradio   
+Convert Python to C++ code. Models: GPT, Claude, Gemini, Ollama Save File, Compile(g++, Visual Studio-cl), Execute, Stream, Gradio   
+
+## 14. Code Generation Inference
+#### [code_generation_inference](https://github.com/RanjitSolomon/llm/blob/main/code_generation_inference.ipynb)
+Code Generation, QWEN, SambaNova, Together, Inference
 
