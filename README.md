@@ -57,3 +57,7 @@ Convert Python to C++ code. Models: GPT, Claude, Gemini, Ollama Save File, Compi
 #### [code_generation_inference](https://github.com/RanjitSolomon/llm/blob/main/code_generation_inference.ipynb)
 Code Generation, QWEN, SambaNova, Together, Inference
 
+## 15. Retrival Augmented Generation (RAG)
+#### [Retrival_Augmented_Generation_RAG](https://github.com/RanjitSolomon/llm/blob/main/Retrival_Augmented_Generation_RAG.ipynb)
+Retrival Augmented Generation, LangChain, OpenAI Embeddings, Chroma, FAISS, HuggingFace, Ollama Embeddings 
+
