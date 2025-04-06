@@ -65,3 +65,9 @@ Retrival Augmented Generation, LangChain, OpenAI Embeddings, Chroma, FAISS, Hugg
 #### [Getting_Dataset_for_FineTuning](https://github.com/RanjitSolomon/llm/blob/main/Getting_Dataset_for_FineTuning.ipynb) 
 HuggingFace dataset, curate, scrubbing, preparation for fine tuning 1
 
+## 17. Uploading Dataset to HuggingFace
+#### [Uploading_dataset_to_HuggingFace](https://github.com/RanjitSolomon/llm/blob/main/Uploading_dataset_to_HuggingFace.ipynb) 
+Deployment Pipeline, 5 Step Strategy, Understand business requirement, Prepare, Select, customize (or fine tuning) models, Three Techniques Pros/Cons, push dataset to HuggingFace, Preparation for fine tuning 2
+
+
+
