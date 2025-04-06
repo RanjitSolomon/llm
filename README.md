@@ -61,3 +61,7 @@ Code Generation, QWEN, SambaNova, Together, Inference
 #### [Retrival_Augmented_Generation_RAG](https://github.com/RanjitSolomon/llm/blob/main/Retrival_Augmented_Generation_RAG.ipynb)
 Retrival Augmented Generation, LangChain, OpenAI Embeddings, Chroma, FAISS, HuggingFace, Ollama Embeddings 
 
+## 16. Getting Dataset for Fine-Tuning 
+#### [Getting_Dataset_for_FineTuning](https://github.com/RanjitSolomon/llm/blob/main/Getting_Dataset_for_FineTuning.ipynb) 
+HuggingFace dataset, curate, scrubbing, preparation for fine tuning 1
+
