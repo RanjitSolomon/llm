@@ -69,5 +69,7 @@ HuggingFace dataset, curate, scrubbing, preparation for fine tuning 1
 #### [Uploading_dataset_to_HuggingFace](https://github.com/RanjitSolomon/llm/blob/main/Uploading_dataset_to_HuggingFace.ipynb) 
 Deployment Pipeline, 5 Step Strategy, Understand business requirement, Prepare, Select, customize (or fine tuning) models, Three Techniques Pros/Cons, push dataset to HuggingFace, Preparation for fine tuning 2
 
-
+## 18. Predicting prices with various models 
+#### [Predicting_prices_with_models](https://github.com/RanjitSolomon/llm/blob/main/Predicting_prices_with_models.ipynb)
+Baseline model, Random, Constant price prediction, Linear Regression, Bag or words Linear Regression, Word2Vec, Support Vector Regrssion, Random Forest models
 
