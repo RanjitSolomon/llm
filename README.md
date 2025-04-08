@@ -73,3 +73,9 @@ Deployment Pipeline, 5 Step Strategy, Understand business requirement, Prepare, 
 #### [Predicting_prices_with_models](https://github.com/RanjitSolomon/llm/blob/main/Predicting_prices_with_models.ipynb)
 Baseline model, Random, Constant price prediction, Linear Regression, Bag or words Linear Regression, Word2Vec, Support Vector Regrssion, Random Forest models
 
+## 19. Predicting prices with Frontier models 
+#### [Predicting_price_with_frontier_models](https://github.com/RanjitSolomon/llm/blob/main/Predicting_price_with_frontier_models.ipynb)
+OpenAI GPT-4o-mini, Claude-3.5, Ollama-Gemma:4B, 12B,27B
+
+
+
