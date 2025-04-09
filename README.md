@@ -77,5 +77,6 @@ Baseline model, Random, Constant price prediction, Linear Regression, Bag or wor
 #### [Predicting_price_with_frontier_models](https://github.com/RanjitSolomon/llm/blob/main/Predicting_price_with_frontier_models.ipynb)
 OpenAI GPT-4o-mini, Claude-3.5, Ollama-Gemma:4B, 12B,27B
 
-
-
+## 20. Fine-tuned open-source model, LoRA, QLoRA
+#### [LoRA_and_QLoRA](https://github.com/RanjitSolomon/llm/blob/main/LoRA_and_QLoRA.ipynb)
+Llama3:1 8B, Hyperparameters R, Alpha, Target Modules, Quantization. Base model, 8bit and 4bit fine tuned models.
