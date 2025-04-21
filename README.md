@@ -80,3 +80,8 @@ OpenAI GPT-4o-mini, Claude-3.5, Ollama-Gemma:4B, 12B,27B
 ## 20. Fine-tuned open-source model, LoRA, QLoRA
 #### [LoRA_and_QLoRA](https://github.com/RanjitSolomon/llm/blob/main/LoRA_and_QLoRA.ipynb)
 Llama3:1 8B, Hyperparameters R, Alpha, Target Modules, Quantization. Base model, 8bit and 4bit fine tuned models.
+
+## 21. Evaluating Open-Source Model
+#### [Training_Open_Source_Model](https://github.com/RanjitSolomon/llm/blob/main/tokenizers.ipynb)
+Evaluating Llama 3.1  4-bit quantization
+
