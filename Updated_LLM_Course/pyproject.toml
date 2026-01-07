@@ -1,0 +1,15 @@
+[project]
+name = "llm-engineering"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bs4>=0.0.2",
+    "ipython>=9.8.0",
+    "ollama>=0.6.1",
+    "openai>=2.14.0",
+    "playwright>=1.57.0",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+]
