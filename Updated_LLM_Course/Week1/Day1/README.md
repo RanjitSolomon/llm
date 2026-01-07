@@ -482,13 +482,14 @@ if __name__ == "__main__":
 
 
 
-"bs4>=0.0.2",
-"ipython>=9.8.0",
-"ollama>=0.6.1",
-"openai>=2.14.0",
-"playwright>=1.57.0",
-"python-dotenv>=1.2.1",
-"requests>=2.32.5",
+"bs4>=0.0.2",       
+"ipython>=9.8.0",       
+"ollama>=0.6.1",       
+"openai>=2.14.0",       
+"playwright>=1.57.0",       
+"python-dotenv>=1.2.1",        
+"requests>=2.32.5",      
+
 
 
 
